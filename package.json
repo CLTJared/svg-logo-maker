@@ -1,0 +1,22 @@
+{
+  "name": "svg-logo-maker",
+  "description": "10-OOP Challenge: SVG Logo Maker. Utilizing NodeJS to create CLI application to take user input and generate SVG File.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies":  {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
